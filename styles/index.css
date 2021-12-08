@@ -1,0 +1,25 @@
+body {
+    background-color: lightgray;
+    text-align: center;
+    font-size: 18px;
+}
+
+button {
+    font-size: 16px;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 20px auto;
+    width: 600px;
+    height: 50px;
+
+    
+}
+
+tr, td,th {
+    border: 1px solid black;
+    padding: 5px;
+}
+
